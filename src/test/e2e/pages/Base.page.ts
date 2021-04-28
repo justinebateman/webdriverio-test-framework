@@ -9,6 +9,7 @@ class BasePage implements Page {
     url = '/';
 
     navigate(): string {
+        allureReporter.addStep(`Navigating to ${this.url}`);
         return browser.url(this.url);
     }
 
