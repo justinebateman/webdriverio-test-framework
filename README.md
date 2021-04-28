@@ -75,6 +75,10 @@ You can run this command to start a server on your machine and open the allure r
 npm run report:open
 ```
 
+The generated report will display all test cases executed, along with steps and results:
+
+![](samples/sample-allure-report.png)
+
 ## Prettier and Eslint
 
 Run to format the code:
