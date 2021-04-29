@@ -1,18 +1,21 @@
 # WebdriverIO Test Framework
 
+[![webdriverio-test-framework-ci Actions Status](https://github.com/justinebateman/webdriverio-test-framework/workflows/webdriverio-test-framework-ci/badge.svg)](https://github.com/justinebateman/webdriverio-test-framework/actions)
+
 This repo holds End to End tests for the Demo site here - [https://the-internet.herokuapp.com/](https://the-internet.herokuapp.com/)
 
 Technologies used:
 
-- Typescript
-- WebdriverIO
-- Mocha
-- Chai
-- Page Object Pattern
-- ESlint
-- Prettier
-- Allure Reports
-- PerformanceTotal Service
+-   Typescript
+-   WebdriverIO
+-   Mocha
+-   Chai
+-   Page Object Pattern
+-   ESlint
+-   Prettier
+-   Allure Reports
+-   PerformanceTotal Service
+-   GitHub Actions CI
 
 Performance results are collated for each test, any performance regression can be viewed in the performance-results folder
 
